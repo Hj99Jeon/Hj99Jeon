@@ -1,14 +1,14 @@
 <div>
   
   <!-- Header Code -->
-  <!--[header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)-->
+  [header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
 
 </div>
 
 <div>
   <!--Body-->
   <h2>👀 About Me<h2>
-  <br/>
+  
   - ML/DeapLearning 공부중<br/>
   - 백엔드 공부중<br/>
   - 동국대 Wise 재학중
