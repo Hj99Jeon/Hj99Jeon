@@ -6,7 +6,7 @@
 - 🤖 인공지능, 머신러닝 분야 공부중
 - 📘 현재 딥러닝 프레임워크와 백엔드 기술을 중심으로 공부하고 있습니다
 
-![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wole1234@daum.net)](https://solved.ac/wole1234@daum.net)
+![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wole1115)](https://solved.ac/wole1115)
 
 ---
 
