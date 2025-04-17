@@ -23,7 +23,7 @@
 #### 🛠️ Tool
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
-![Intelli J](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/Intellij_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ---
 
 
