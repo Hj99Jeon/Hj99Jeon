@@ -7,7 +7,7 @@
 
 <div>
   <!--Body-->
-  ## 👀 About Me
+  ##👀 About Me
   - ML/DeapLearning 공부중<br/>
   - 백엔드 공부중<br/>
   - 동국대 Wise 재학중
