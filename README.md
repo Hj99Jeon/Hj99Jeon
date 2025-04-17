@@ -7,21 +7,20 @@
 
 <div>
   <!--Body-->
-  <h2>👀 About Me<h2>
-  
+  ###👀 About Me
   - ML/DeapLearning 공부중<br/>
   - 백엔드 공부중<br/>
   - 동국대 Wise 재학중
   <br/>
   <br/>
-  ##🧱 Tech Stack
+  ###🧱 Tech Stack
   ###Language
   <!--Python-->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <!img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <br/>
   ###Library
   <!--Tenserflow-->
-  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
+  <!img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
   <br/>
   ###Framework
   <br/>
