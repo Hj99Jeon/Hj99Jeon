@@ -2,9 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
 
 ### 💡 About Me
-- 🎓 **동국대학교 WISE캠퍼스** 재학 중
+- 🎓 **동국대학교 WISE캠퍼스 전자정보통신공학과** 재학 중
 - 🤖 인공지능, 머신러닝 분야 공부중
-- 📘 현재 딥러닝 프레임워크와 백엔드 기술을 중심으로 공부하고 있습니다
+- 📘 현재 딥러닝 프레임워크와 백엔드 공부 중
 
 ![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wole1115)
 
